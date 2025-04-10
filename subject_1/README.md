@@ -17,6 +17,12 @@
 
 # 專案說明
 
+若需要執行請務必於此專案根目錄之外建立 `.env` 檔案，並在其中加入以下環境變數：
+
+```dotenv
+OPENAI_API_KEY="your_openai_api_key"
+```
+
 ## 專案結構
 
 subject_1/
