@@ -7,6 +7,12 @@
 
 ## 題目 1：舆情分析聊天機器人
 
+- 程式目錄名稱：subject_1
+- 專案網址：[https://github.com/nickchen1998/BigDataInterview/blob/main/subject_1](https://github.com/nickchen1998/BigDataInterview/blob/main/subject_1)
+
 ---
 
 ## 題目 2：文件檢索聊天機器人（RAG 知識庫整合）
+
+- 程式目錄名稱：subject_2
+- 專案網址：[https://github.com/nickchen1998/BigDataInterview/tree/main/subject_2](https://github.com/nickchen1998/BigDataInterview/tree/main/subject_2)
